@@ -182,3 +182,54 @@ span{
 .box-content p{
     color:#007185;
 }
+footer{
+    margin-top:10px;
+}
+
+.foot-panel1{
+    background-color: #374758;
+    color:white;
+    height:50px;
+    display:flex;   
+    justify-content: center;
+    align-items: center;
+    font-size: o.85rem;
+}
+
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height:500px;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+ul a{
+    display:block;
+    color:#dddddd;
+    font-size:0.85rem;
+    margin-top:10px;
+}
+
+ul a:hover{
+    text-decoration:underline;
+}
+
+ul p{
+    font-weight:700;
+    margin-top:20px;
+}
+
+.foot-panel3{
+    background-color: #222f3d;
+    color:white;
+    border-top:1px solid white;
+    height:70px;
+}
+
+.logo{
+    background-image: url("Amazon_logo.jpg");
+    background-size: cover;
+    height:50px;
+    width:100%;
+}
